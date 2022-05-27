@@ -1,0 +1,15 @@
+table { 
+    border-collapse: separate; 
+    border: 2px solid rgb(169, 70, 70); 
+    width: 100%;
+  }
+  th { 
+    border: 2px solid rgb(255, 0, 0); 
+  }
+  td { 
+    border: 2px solid coral; 
+    text-align:center;
+  }
+  td:hover {
+    background-color: coral;
+  }

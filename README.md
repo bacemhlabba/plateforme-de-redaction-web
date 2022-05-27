@@ -50,25 +50,6 @@ prénom, âge, CIN, adresse, login et password).
 -	Consulter la liste des offres de projets
 -	Postuler pour un projet et lui proposer un prix.
 -	Réviser un projet sous la demande du client.
-2.	Travail demandé:
-A.	Dossier de conception : En suivant la démarche processus unifies, réaliser l’analyse des besoins, l’analyse et la conception de cette application.
-A.1.	Analyse des besoins:
-•	établir une ébauche du modèle des use-cases,
-•	assigner des priorités aux use-cases,
-•	détailler chaque use-case,
-•	prototyper l'interface utilisateur,
-•	structurer le modèle des use-cases.
-A.2.	Analyse :
-•	analyse architecturale,
-•	analyse de use-case,
-•	analyse de classe,
-•	analyse de paquetage.
-A.3.	Conception :
-•	Conception architecturale,
-•	Conception de classe,
- 
-•	Conception de use-case,
-•	Conception des sous systèmes.
 
 B.	Développement Web:
 •	Créez votre projet en Laravel.
